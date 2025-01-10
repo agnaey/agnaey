@@ -8,7 +8,7 @@
 <p align="left">
     <img align="right" src="https://cdn.inflearn.com/assets/images/lost_pages/coding_cat.gif" width="300px" style="margin-left: 20px;">
   </p>
-- 🌱I’m focusing on **enhancing my skills in Python and web development**
+- 🌱I’m focusing on enhancing my skills in Python and web development
 
 - 👯 I’m looking to collaborate on **Python Django projects**
 
