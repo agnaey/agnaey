@@ -4,7 +4,7 @@
 <div align="center">
     <img src="https://profile-counter.glitch.me/agnaey/count.svg?"  />
   </div>
-<p align="center">     <img src="https://github-profile-trophy.vercel.app?username=agnaey&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<p align="center">     <img src="https://github-profile-trophy.soulteary.com/?username=agnaey&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </p>
 
 <p align="left">
@@ -59,8 +59,8 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=agnaey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agnaey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="160" alt="languages graph"  />
+   <img src="https://guinetik-github-stats.vercel.app/api?username=agnaey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph" />
+  <img src="https://guinetik-github-stats.vercel.app/api/top-langs?username=agnaey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="160" alt="languages graph" />
     <img src="https://streak-stats.demolab.com?user=agnaey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200"  alt="" />
 
   </div>
