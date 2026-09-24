@@ -2,9 +2,10 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=I'm+Agnaey+Viswanath+%F0%9F%91%8B" color="blue" alt="Typing SVG" /></a></h3>
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/agnaey/count.svg?"  />
-  </div>
-<p align="center">     <img src="https://github-profile-trophy.soulteary.com/?username=agnaey&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-view-counter.vercel.app/api?username=agnaey" alt="Profile views" />
+</div>
+<p align="center">
+  <img src="https://github-profile-svg.vercel.app/api/profile?username=agnaey&mode=glass&theme=dark" height="150" alt="GitHub trophies" />
 </p>
 
 <p align="left">
@@ -59,9 +60,8 @@
 
 
 <div align="center">
-   <img src="https://guinetik-github-stats.vercel.app/api?username=agnaey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph" />
-  <img src="https://guinetik-github-stats.vercel.app/api/top-langs?username=agnaey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="160" alt="languages graph" />
-    <img src="https://streak-stats.demolab.com?user=agnaey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200"  alt="" />
+   <img src="https://guinetik-github-stats.vercel.app/api?username=agnaey&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
+<img src="https://guinetik-github-stats.vercel.app/api/top-langs?username=agnaey&layout=compact&langs_count=5&theme=dark" height="160" alt="Top languages" />  <img src="https://streak-stats.demolab.com?user=agnaey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200"  alt="" />
 
   </div>
   
