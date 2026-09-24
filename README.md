@@ -5,7 +5,7 @@
   <img src="https://github-view-counter.vercel.app/api?username=agnaey" alt="Profile views" />
 </div>
 <p align="center">
-  <img src="https://github-profile-svg.vercel.app/api/profile?username=agnaey&mode=glass&theme=dark" height="150" alt="GitHub trophies" />
+  <img src="https://github-profile-svg.vercel.app/api/profile?username=agnaey&mode=glass&theme=dark" height="100%" alt="GitHub trophies" />
 </p>
 
 <p align="left">
