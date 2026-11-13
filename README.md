@@ -60,8 +60,22 @@
 
 
 <div align="center">
-   <img src="https://guinetik-github-stats.vercel.app/api?username=agnaey&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
-<img src="https://guinetik-github-stats.vercel.app/api/top-langs?username=agnaey&layout=compact&langs_count=5&theme=dark" height="160" alt="Top languages" />  <img src="https://streak-stats.demolab.com?user=agnaey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200"  alt="" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=agnaey&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agnaey&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agnaey&theme=tokyonight" alt="Repositories by language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agnaey&theme=tokyonight" alt="Most committed language" />
+</p>
+
+
+<!-- <img src="https://streak-stats.demolab.com?user=agnaey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200"  alt="" /> -->
 
   </div>
   
@@ -78,7 +92,9 @@
 
 
  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=agnaey&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+ <p align="center">
+  <img src="https://github.pumbas.net/api/contributions/agnaey" alt="SanikaZade's GitHub Contributions" width="100%">
+</p> 
  </div>
   
   ###
